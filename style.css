@@ -1,0 +1,1553 @@
+.SNA-toolbox-landing {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SNA-toolbox-landing .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 8519px;
+  position: relative;
+}
+
+.SNA-toolbox-landing .overlap {
+  position: absolute;
+  width: 1624px;
+  height: 163px;
+  top: 10px;
+  left: 148px;
+}
+
+.SNA-toolbox-landing .header {
+  position: absolute;
+  width: 1608px;
+  height: 161px;
+  top: 0;
+  left: 6px;
+  background-color: transparent;
+}
+
+.SNA-toolbox-landing .SNA-icon {
+  position: absolute;
+  width: 297px;
+  height: 69px;
+  top: 41px;
+  left: 50px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .menus {
+  position: absolute;
+  width: 689px;
+  height: 24px;
+  top: 63px;
+  left: 444px;
+}
+
+.SNA-toolbox-landing .products {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.SNA-toolbox-landing .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .vuesax-outline-arrow {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.SNA-toolbox-landing .services {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 146px;
+}
+
+.SNA-toolbox-landing .pricing {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 289px;
+}
+
+.SNA-toolbox-landing .about-us {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 0;
+  left: 415px;
+}
+
+.SNA-toolbox-landing .contact-us {
+  position: absolute;
+  width: 120px;
+  height: 24px;
+  top: 0;
+  left: 561px;
+}
+
+.SNA-toolbox-landing .text-wrapper-2 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .right-header {
+  position: absolute;
+  width: 352px;
+  height: 107px;
+  top: 33px;
+  left: 1230px;
+}
+
+.SNA-toolbox-landing .login {
+  display: flex;
+  width: 324px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 51px;
+  position: relative;
+  left: 14px;
+}
+
+.SNA-toolbox-landing .text-wrapper-3 {
+  position: relative;
+  width: 86px;
+  margin-left: -14.5px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -14.5px;
+  background-color: var(--primary-color);
+  border-radius: 24px;
+  overflow: hidden;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--white-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .line-menus {
+  width: 1624px;
+  height: 17px;
+  top: 146px;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+}
+
+.SNA-toolbox-landing .slider {
+  position: absolute;
+  width: 1502px;
+  height: 564px;
+  top: 218px;
+  left: 221px;
+  background-color: #e5e5e5;
+}
+
+.SNA-toolbox-landing .overlap-group {
+  position: relative;
+  height: 564px;
+  background-image: url(./img/slider-1-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .mini-circles {
+  position: absolute;
+  width: 112px;
+  height: 16px;
+  top: 511px;
+  left: 695px;
+}
+
+.SNA-toolbox-landing .ellipse {
+  left: 0;
+  background-color: var(--dark-color);
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.SNA-toolbox-landing .ellipse-2 {
+  left: 24px;
+  background-color: var(--ededed);
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.SNA-toolbox-landing .ellipse-3 {
+  left: 48px;
+  background-color: var(--ededed);
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.SNA-toolbox-landing .ellipse-4 {
+  left: 72px;
+  background-color: var(--ededed);
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.SNA-toolbox-landing .ellipse-5 {
+  left: 96px;
+  background-color: var(--ededed);
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.SNA-toolbox-landing .button-round {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 257px;
+  left: 17px;
+  transform: rotate(-90deg);
+}
+
+.SNA-toolbox-landing .overlap-group-2 {
+  position: relative;
+  height: 50px;
+}
+
+.SNA-toolbox-landing .background {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  transform: rotate(90deg);
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .icon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+  left: 13px;
+  transform: rotate(90deg);
+}
+
+.SNA-toolbox-landing .iconly-light-arrow {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.SNA-toolbox-landing .button-round-px {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 257px;
+  left: 1436px;
+  transform: rotate(90deg);
+}
+
+.SNA-toolbox-landing .img {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .iconly-light-arrow-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.SNA-toolbox-landing .about-section {
+  position: absolute;
+  width: 1609px;
+  height: 658px;
+  top: 859px;
+  left: 155px;
+}
+
+.SNA-toolbox-landing .make-the-unseen {
+  position: absolute;
+  width: 744px;
+  height: 171px;
+  top: 92px;
+  left: 44px;
+  font-family: var(--h1-font-family);
+  font-weight: var(--h1-font-weight);
+  color: transparent;
+  font-size: var(--h1-font-size);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  font-style: var(--h1-font-style);
+}
+
+.SNA-toolbox-landing .span {
+  color: #58585a;
+  font-family: var(--h1-font-family);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  font-size: var(--h1-font-size);
+}
+
+.SNA-toolbox-landing .text-wrapper-5 {
+  color: #1c6fae;
+  font-family: var(--h1-font-family);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  font-size: var(--h1-font-size);
+}
+
+.SNA-toolbox-landing .p {
+  position: absolute;
+  width: 668px;
+  height: 154px;
+  top: 283px;
+  left: 44px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--secondary-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 44px;
+}
+
+.SNA-toolbox-landing .email-call-to-action {
+  position: absolute;
+  width: 653px;
+  height: 74px;
+  top: 468px;
+  left: 44px;
+}
+
+.SNA-toolbox-landing .text-wrapper-6 {
+  position: absolute;
+  height: 17px;
+  top: 56px;
+  left: 0;
+  font-family: var(--regular-14-font-family);
+  font-weight: var(--regular-14-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--regular-14-font-size);
+  text-align: center;
+  letter-spacing: var(--regular-14-letter-spacing);
+  line-height: var(--regular-14-line-height);
+  font-style: var(--regular-14-font-style);
+}
+
+.SNA-toolbox-landing .email-box {
+  position: absolute;
+  width: 300px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-color: var(--ededed);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--ededed);
+}
+
+.SNA-toolbox-landing .text-wrapper-7 {
+  position: absolute;
+  height: 19px;
+  top: 14px;
+  left: 21px;
+  font-family: var(--medium-16-font-family);
+  font-weight: var(--medium-16-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--medium-16-font-size);
+  text-align: center;
+  letter-spacing: var(--medium-16-letter-spacing);
+  line-height: var(--medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--medium-16-font-style);
+}
+
+.SNA-toolbox-landing .sign-up-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: absolute;
+  top: 0;
+  left: 327px;
+  background-color: var(--primary-color);
+  border-radius: 50px;
+  overflow: hidden;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .data-connection {
+  position: absolute;
+  width: 745px;
+  height: 658px;
+  top: 0;
+  left: 846px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .portfolio {
+  display: flex;
+  flex-direction: column;
+  width: 1605px;
+  height: 431px;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  padding: 0px 0px 4px;
+  position: absolute;
+  top: 1587px;
+  left: 157px;
+}
+
+.SNA-toolbox-landing .simplified {
+  position: relative;
+  width: 860.82px;
+  flex: 0 0 auto;
+}
+
+.SNA-toolbox-landing .portfolio-2 {
+  position: relative;
+  width: 1356px;
+  height: 190px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .why-choose-our-brand {
+  position: absolute;
+  width: 1622px;
+  height: 773px;
+  top: 2158px;
+  left: 156px;
+}
+
+.SNA-toolbox-landing .why-choose-our {
+  position: absolute;
+  height: 61px;
+  top: 13px;
+  left: 518px;
+  font-family: var(--h2-font-family);
+  font-weight: var(--h2-font-weight);
+  color: transparent;
+  font-size: var(--h2-font-size);
+  text-align: center;
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  white-space: nowrap;
+  font-style: var(--h2-font-style);
+}
+
+.SNA-toolbox-landing .text-wrapper-8 {
+  color: #58585a;
+  font-family: var(--h2-font-family);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  font-size: var(--h2-font-size);
+}
+
+.SNA-toolbox-landing .text-wrapper-9 {
+  color: #1c6fae;
+  font-family: var(--h2-font-family);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  font-size: var(--h2-font-size);
+}
+
+.SNA-toolbox-landing .designed-for-schools {
+  position: absolute;
+  height: 24px;
+  top: 94px;
+  left: 538px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros {
+  position: absolute;
+  width: 1287px;
+  height: 581px;
+  top: 176px;
+  left: 167px;
+}
+
+.SNA-toolbox-landing .pros-2 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame {
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-image: url(./img/1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-10 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 22px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros-3 {
+  top: 0;
+  left: 446px;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame-2 {
+  background-image: url(./img/2.png);
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-11 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 81px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros-4 {
+  top: 0;
+  left: 892px;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame-3 {
+  background-image: url(./img/3-1.png);
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-12 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 60px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros-5 {
+  top: 311px;
+  left: 0;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame-4 {
+  background-image: url(./img/4-1.png);
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-13 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 97px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros-6 {
+  top: 311px;
+  left: 446px;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame-5 {
+  background-image: url(./img/5-1.png);
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-14 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 77px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .pros-7 {
+  top: 311px;
+  left: 892px;
+  position: absolute;
+  width: 390px;
+  height: 271px;
+}
+
+.SNA-toolbox-landing .frame-6 {
+  background-image: url(./img/6-1.png);
+  position: absolute;
+  width: 390px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: var(--cbcbcb);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.SNA-toolbox-landing .text-wrapper-15 {
+  position: absolute;
+  height: 24px;
+  top: 246px;
+  left: 74px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--x-757575);
+  font-size: var(--semi-font-size);
+  text-align: center;
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .students-n-classroom {
+  position: absolute;
+  width: 996px;
+  height: 556px;
+  top: 3028px;
+  left: 462px;
+}
+
+.SNA-toolbox-landing .student-study {
+  position: absolute;
+  width: 1066px;
+  height: 402px;
+  top: -20px;
+  left: -35px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .we-analyze-data-for {
+  position: absolute;
+  width: 586px;
+  height: 163px;
+  top: 392px;
+  left: 205px;
+  font-family: var(--h2-font-family);
+  font-weight: var(--h2-font-weight);
+  color: transparent;
+  font-size: var(--h2-font-size);
+  text-align: center;
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  font-style: var(--h2-font-style);
+}
+
+.SNA-toolbox-landing .text-wrapper-16 {
+  color: #185b8e;
+  font-family: var(--h2-font-family);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  font-size: var(--h2-font-size);
+}
+
+.SNA-toolbox-landing .data-box {
+  top: 3613px;
+  position: absolute;
+  width: 1605px;
+  height: 503px;
+  left: 157px;
+}
+
+.SNA-toolbox-landing .data-text {
+  position: absolute;
+  width: 644px;
+  height: 390px;
+  top: 56px;
+  left: 136px;
+}
+
+.SNA-toolbox-landing .text-wrapper-17 {
+  position: absolute;
+  width: 570px;
+  height: 43px;
+  top: 0;
+  left: 0;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--h3-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .text-wrapper-18 {
+  position: absolute;
+  width: 548px;
+  height: 219px;
+  top: 72px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--x-757575);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.SNA-toolbox-landing .button-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 332px;
+  left: 0;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--white-color);
+  border-radius: 24px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--primary-color);
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--dark-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .data {
+  position: absolute;
+  width: 690px;
+  height: 483px;
+  top: 20px;
+  left: 814px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .data-box-2 {
+  top: 4198px;
+  position: absolute;
+  width: 1605px;
+  height: 503px;
+  left: 157px;
+}
+
+.SNA-toolbox-landing .data-2 {
+  left: 98px;
+  position: absolute;
+  width: 690px;
+  height: 483px;
+  top: 20px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .data-text-2 {
+  position: absolute;
+  width: 626px;
+  height: 390px;
+  top: 57px;
+  left: 843px;
+}
+
+.SNA-toolbox-landing .text-wrapper-20 {
+  position: absolute;
+  width: 570px;
+  height: 43px;
+  top: 0;
+  left: 0;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--h3-font-size);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .data-box-3 {
+  top: 4785px;
+  position: absolute;
+  width: 1605px;
+  height: 503px;
+  left: 157px;
+}
+
+.SNA-toolbox-landing .text-wrapper-21 {
+  position: absolute;
+  width: 656px;
+  height: 43px;
+  top: 0;
+  left: 0;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--h3-font-size);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .data-3 {
+  left: 810px;
+  position: absolute;
+  width: 690px;
+  height: 483px;
+  top: 20px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .speak-our-team {
+  position: absolute;
+  width: 1608px;
+  height: 438px;
+  top: 5397px;
+  left: 156px;
+  background: linear-gradient(180deg, rgb(28, 111, 174) 0%, rgb(24, 91, 142) 100%);
+}
+
+.SNA-toolbox-landing .frame-7 {
+  position: absolute;
+  width: 790px;
+  height: 214px;
+  top: 112px;
+  left: 19px;
+}
+
+.SNA-toolbox-landing .need-help-get-free {
+  position: absolute;
+  height: 96px;
+  top: 12px;
+  left: 96px;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--white-color);
+  font-size: var(--h3-font-size);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .button-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 165px;
+  left: 96px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .digital-devices {
+  position: absolute;
+  width: 716px;
+  height: 360px;
+  top: 39px;
+  left: 816px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .customers {
+  position: absolute;
+  width: 1608px;
+  height: 643px;
+  top: 5934px;
+  left: 156px;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(252.09, 252.09, 252.09) 50%, rgb(255, 255, 255) 100%);
+}
+
+.SNA-toolbox-landing .frame-8 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 565px;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  padding: 16px 8px;
+  position: relative;
+  top: 29px;
+  left: 116px;
+}
+
+.SNA-toolbox-landing .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--secondary-color);
+  font-size: var(--h3-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .frame-9 {
+  position: relative;
+  width: 1360px;
+  height: 415px;
+}
+
+.SNA-toolbox-landing .manager-school {
+  position: absolute;
+  width: 729px;
+  height: 485px;
+  top: -20px;
+  left: -35px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .group-wrapper {
+  position: absolute;
+  width: 597px;
+  height: 295px;
+  top: 35px;
+  left: 763px;
+}
+
+.SNA-toolbox-landing .group {
+  position: relative;
+  width: 601px;
+  height: 302px;
+  top: 22px;
+}
+
+.SNA-toolbox-landing .i-like-managing-and {
+  position: absolute;
+  width: 597px;
+  height: 99px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--x-757575);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 44px;
+}
+
+.SNA-toolbox-landing .button-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 254px;
+  left: 0;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .katrin-harshman {
+  position: absolute;
+  height: 51px;
+  top: 130px;
+  left: 0;
+  opacity: 0.8;
+  font-family: var(--regular-14-font-family);
+  font-weight: var(--regular-14-font-weight);
+  color: var(--x-757575);
+  font-size: var(--regular-14-font-size);
+  letter-spacing: var(--regular-14-letter-spacing);
+  line-height: var(--regular-14-line-height);
+  font-style: var(--regular-14-font-style);
+}
+
+.SNA-toolbox-landing .toolbox {
+  position: absolute;
+  width: 1608px;
+  height: 531px;
+  top: 6692px;
+  left: 156px;
+  background-color: #ffffff;
+}
+
+.SNA-toolbox-landing .frame-10 {
+  position: relative;
+  width: 1429px;
+  height: 427px;
+  top: 52px;
+  left: 89px;
+}
+
+.SNA-toolbox-landing .work-with-dashboard {
+  position: absolute;
+  width: 826px;
+  height: 450px;
+  top: 4px;
+  left: 638px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .frame-11 {
+  position: absolute;
+  width: 544px;
+  height: 427px;
+  top: 0;
+  left: 0;
+}
+
+.SNA-toolbox-landing .text-wrapper-23 {
+  position: absolute;
+  height: 48px;
+  top: -1px;
+  left: 0;
+  font-family: var(--h3-font-family);
+  font-weight: var(--h3-font-weight);
+  color: var(--dark-color);
+  font-size: var(--h3-font-size);
+  text-align: center;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  white-space: nowrap;
+  font-style: var(--h3-font-style);
+}
+
+.SNA-toolbox-landing .frame-12 {
+  position: absolute;
+  width: 357px;
+  height: 235px;
+  top: 78px;
+  left: 0;
+}
+
+.SNA-toolbox-landing .from-data-collection {
+  position: absolute;
+  width: 322px;
+  height: 235px;
+  top: -1px;
+  left: 35px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: transparent;
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .text-wrapper-24 {
+  color: #58585a;
+  font-family: var(--semi-font-family);
+  font-style: var(--semi-font-style);
+  font-weight: var(--semi-font-weight);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-size: var(--semi-font-size);
+}
+
+.SNA-toolbox-landing .text-wrapper-25 {
+  color: #757575;
+  font-family: var(--semi-font-family);
+  font-style: var(--semi-font-style);
+  font-weight: var(--semi-font-weight);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-size: var(--semi-font-size);
+}
+
+.SNA-toolbox-landing .line {
+  width: 7px;
+  height: 229px;
+  top: 6px;
+  position: absolute;
+  left: 0;
+}
+
+.SNA-toolbox-landing .frame-13 {
+  position: absolute;
+  width: 451px;
+  height: 48px;
+  top: 353px;
+  left: 0;
+}
+
+.SNA-toolbox-landing .request-for-demo-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: absolute;
+  top: 0;
+  left: 226px;
+  background-color: var(--primary-color);
+  border-radius: 24px;
+  overflow: hidden;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .button-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .ready-to-go {
+  position: absolute;
+  width: 1608px;
+  height: 531px;
+  top: 7310px;
+  left: 156px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 0%,
+    rgb(236.94, 236.94, 236.94) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+
+.SNA-toolbox-landing .overlap-group-wrapper {
+  position: relative;
+  width: 1562px;
+  height: 400px;
+  top: 66px;
+  left: 23px;
+}
+
+.SNA-toolbox-landing .overlap-group-3 {
+  position: relative;
+  height: 400px;
+}
+
+.SNA-toolbox-landing .frame-14 {
+  position: absolute;
+  width: 790px;
+  height: 214px;
+  top: 93px;
+  left: 0;
+}
+
+.SNA-toolbox-landing .ready-to-go-try-our {
+  position: absolute;
+  height: 122px;
+  top: -1px;
+  left: 26px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--dark-color);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 61px;
+}
+
+.SNA-toolbox-landing .button-5 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: absolute;
+  top: 166px;
+  left: 26px;
+  background-color: var(--primary-color);
+  border-radius: 24px;
+  overflow: hidden;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .digital-devices-2 {
+  position: absolute;
+  width: 796px;
+  height: 400px;
+  top: 0;
+  left: 766px;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .footer {
+  position: absolute;
+  width: 1608px;
+  height: 553px;
+  top: 7921px;
+  left: 156px;
+  background-color: var(--secondary-color);
+}
+
+.SNA-toolbox-landing .content {
+  position: absolute;
+  width: 182px;
+  height: 180px;
+  top: 53px;
+  left: 56px;
+  overflow: hidden;
+}
+
+.SNA-toolbox-landing .text-wrapper-26 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: var(--h6-font-family);
+  font-weight: var(--h6-font-weight);
+  color: var(--white-color);
+  font-size: var(--h6-font-size);
+  letter-spacing: var(--h6-letter-spacing);
+  line-height: var(--h6-line-height);
+  font-style: var(--h6-font-style);
+}
+
+.SNA-toolbox-landing .text-wrapper-27 {
+  position: absolute;
+  width: 225px;
+  top: 49px;
+  left: 0;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--ededed);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .content-2 {
+  position: absolute;
+  width: 182px;
+  height: 180px;
+  top: 53px;
+  left: 377px;
+  overflow: hidden;
+}
+
+.SNA-toolbox-landing .overlap-2 {
+  position: absolute;
+  width: 363px;
+  height: 249px;
+  top: 53px;
+  left: 1182px;
+}
+
+.SNA-toolbox-landing .social-media {
+  position: absolute;
+  width: 182px;
+  height: 180px;
+  top: 0;
+  left: 49px;
+}
+
+.SNA-toolbox-landing .social-share {
+  position: absolute;
+  width: 363px;
+  height: 203px;
+  top: 46px;
+  left: 0;
+  object-fit: cover;
+}
+
+.SNA-toolbox-landing .legal {
+  position: absolute;
+  width: 182px;
+  height: 136px;
+  top: 53px;
+  left: 804px;
+  overflow: hidden;
+}
+
+.SNA-toolbox-landing .support {
+  position: absolute;
+  width: 182px;
+  height: 116px;
+  top: 233px;
+  left: 804px;
+}
+
+.SNA-toolbox-landing .FAQ-contact {
+  position: absolute;
+  width: 119px;
+  top: 49px;
+  left: 0;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--ededed);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .copyright {
+  position: absolute;
+  width: 1393px;
+  height: 60px;
+  top: 419px;
+  left: 32px;
+}
+
+.SNA-toolbox-landing .language {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 6px;
+  left: 1238px;
+}
+
+.SNA-toolbox-landing .button-6 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 42px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 24px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--ededed);
+  all: unset;
+  box-sizing: border-box;
+}
+
+.SNA-toolbox-landing .copyright-2 {
+  position: absolute;
+  width: 1030px;
+  height: 60px;
+  top: 0;
+  left: 0;
+}
+
+.SNA-toolbox-landing .text-wrapper-28 {
+  position: absolute;
+  top: 25px;
+  left: 267px;
+  font-family: var(--semi-font-family);
+  font-weight: var(--semi-font-weight);
+  color: var(--white-color);
+  font-size: var(--semi-font-size);
+  letter-spacing: var(--semi-letter-spacing);
+  line-height: var(--semi-line-height);
+  white-space: nowrap;
+  font-style: var(--semi-font-style);
+}
+
+.SNA-toolbox-landing .element {
+  position: absolute;
+  width: 229px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
